@@ -1,0 +1,17 @@
+02_PKG_AMORTIZACION_CREDITO.sql (Archivo SQL)
+
+03_PKG_EVALUACION_CREDITO.sql (Archivo SQL)
+
+04_PKG_INTERESES_MORA.sql (Archivo SQL)
+
+05_PKG_CONCILIACION_BANCARIA.sql (Archivo SQL)
+
+06_PKG_DETECCION_FRAUDE.sql (Archivo SQL)
+
+
+Requiero que me generes unos archivos archivos de pruebas de programas legados en SQL los cuales puedan cumplir con las caracteristicas de negocio para:
+
+pkg_liquidacion_sinientros.sql
+
+
+Necesito que no se carguen plantillas de ejemplo, toda app llegacy debe ser cargada desde la opcion de subir archivo, revisa que las diferentes fases se encuentren funcionando ya que algunas no cargan los procesos correspondientes
